@@ -1,5 +1,5 @@
 
-import { PALAVRAS_RUINS } from "./palavrasRuins.js";
+import { PALAVRAS_RUINS } from "./palavrasRuins.js";{
 
 const botaoMostraPalavras = document.querySelector('#botao-palavrachave');
 
@@ -56,7 +56,7 @@ function tiraPalavrasRuins(palavras) {
 }
 
     campoResultado.textContent = palavrasChave.join(", ");
-
+}
 
 function processaTexto(texto) {
     let palavras = texto.split(/P{L}+/u);
