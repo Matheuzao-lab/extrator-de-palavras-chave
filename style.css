@@ -2,7 +2,7 @@
 
 :root {
     --cor-destaque: #54b613;
-    --cor-gradiente-preto: linear-gradient(113deg, #07ffde 0%, #00fff25b 44.96%, #00ffffad 100%);
+    --cor-gradiente-preto: linear-gradient(113deg, #4907ff 0%, #ff0000 44.96%, #eeff00 100%);
 }
 
 * {
